@@ -1,0 +1,14 @@
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\bin\Debug\Talent Agencie.exe.config
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\bin\Debug\Talent Agencie.exe
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\bin\Debug\Talent Agencie.pdb
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent Agencie.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent Agencie.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent Agencie.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent Agencie.exe
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent Agencie.pdb
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Resource1.resources
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Welcome.resources
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Customers.resources
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Dashboard.resources
+C:\Users\m-vas\source\repos\Talent Agencie\Talent Agencie\obj\Debug\Talent_Agencie.Booking.resources
